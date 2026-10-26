@@ -38,8 +38,8 @@ After selecting the final dataset, record its exact name, publisher, source URL,
 Predictions depend on dataset quality and features available at prediction time. This is not a live tracking system and does not guarantee a delivery time.
 
 ## Author
-- Name: [Your Name]
-- Roll No.: [Your Roll Number]
+- Name: Shreyas Darekar
+- Roll No.: CS3134
 - Class: TY Div A
 - Course: Machine Learning
 - Academic Year: 2026–27
